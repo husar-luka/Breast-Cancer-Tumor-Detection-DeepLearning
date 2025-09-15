@@ -27,9 +27,9 @@ The CNN is built using PyTorch and includes:
 
 ## Project Applications
 This project demonstrates how CNNs can be applied to medical imaging tasks and may be extended to:
-- Multi-class tumor classification
-- Transfer learning with pretrained models
-- Explainability techniques (Grad-CAM, saliency maps)
+- **Early Detection:** Helping radiologists flag suspicious regions quickly, potentially catching tumors earlier and improving patient outcomes.
+- **Decision Support:** Acting as a second opinion for clinicians, reducing diagnostic errors and supporting more confident decisions.
+- **Workload Reduction:** Automating part of the screening process to allow doctors to focus on the most complex cases.
 
 ## Future Improvements
 - Implement data balancing techniques (e.g., SMOTE, class-weighted loss)
